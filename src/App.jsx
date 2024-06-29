@@ -25,7 +25,7 @@ const App = () => {
         </section>
       </main>
       {/* large */}
-      <main className='crop-circle-container  hidden lg:flex flex-col items-center w-full h-full'>
+      <main className='crop-circle-container flex flex-col items-center w-full h-full'>
         {/* <article className='circle circle1 flex items-center justify-center'>Text</article>
         <article className='rectangle rectangle1 flex items-center justify-center'>Text</article> */}
         <article className='circle circle2 flex items-center justify-center mb-40'>Text</article>
