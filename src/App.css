@@ -11,6 +11,9 @@
   position: relative;
   transform: rotateX(75deg);
   background-color: #100D04;
+  margin-top: -60rem;
+  padding-bottom: -60rem;
+  /* margin-bottom: -100rem; */
 }
 .circle{
   background-color: #B59330;
@@ -122,11 +125,6 @@
 }
 
 /* large */
-.circle1{
-  width: 10rem;
-  height: 10rem;
-  
-}
 
 .rectangle1{
   width: 1rem;
